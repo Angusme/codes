@@ -45,3 +45,7 @@ int main()
     }
     return 0;
 }
+
+
+
+//Bug has been resolved...http://stackoverflow.com/questions/30302352/how-to-make-this-c-program-more-robust
